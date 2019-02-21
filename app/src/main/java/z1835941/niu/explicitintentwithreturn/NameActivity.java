@@ -24,7 +24,7 @@ public class NameActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_name);
 
-        nameET = findViewById(R.id.nameEditText)
+        nameET = findViewById(R.id.nameEditText);
     }
 
     public void goBack( View view )
